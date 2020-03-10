@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://zhaofuw.github.io
+url: https://mazhuang.org
 date_format: "ordinal"
 title: 奔跑的小野牛
 subtitle: "公众号：奔跑的小野牛"
@@ -81,9 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-#repository: jekyll_demo/zhaofuw.github.io
-repository: zhaofuw/jekyll_demo
-
+repository: mzlogin/mzlogin.github.io
 
 # ---------------- #
 #      Comments    #
