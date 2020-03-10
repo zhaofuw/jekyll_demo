@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/zhaofuw/jekyll_demo/tree/gh-pages
+url: https://zhaofuw.github.io/jekyll_demo/
 #url: https://zhaofuw.github.io
 date_format: "ordinal"
 title: 奔跑的小野牛
