@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: zhaofuw/zhaofuw.github.io
+repository: jekyll_demo/zhaofuw.github.io
 
 # ---------------- #
 #      Comments    #
